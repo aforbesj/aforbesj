@@ -1,12 +1,12 @@
 ## Andrew J Forbes
-### Data Science 🤖 | Music Pro 🎺
+### Data Science / Analysis🤖 | Music Pro 🎺
 
 Hey! I'm Andrew, an enthusiastic and driven learner in the dynamic realm of Data Science: excited to delve into the boundless possibilities of data analysis. Interestingly, my background lies in music, which brings a unique perspective to my data science journey. I possess a creative mindset, a strong work ethic, and an analytical approach to problem-solving. 
 
 Currently, I am actively seeking opportunities to make a tangible impact, leveraging my skills and passion in organizations that embrace innovation and harness the potential of data-driven insights. Let's join forces and create remarkable data-driven solutions!
 
-- 🔭 I’m currently working on:  NLP with GANs to generate scenes for TV shows
-- 🌱 I’m currently learning: Google Adv. Data Analytics and Google Business Intelligence
+- 🔭 I’m currently working on:  NLP with RNNs and Awareness to generate scenes for TV shows
+- 🌱 I’m currently learning: Google Adv. Data Analytics 
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/aforbesj/)
 
 <!--
