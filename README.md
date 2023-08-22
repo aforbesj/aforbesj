@@ -5,8 +5,8 @@ Hey! I'm Andrew, an enthusiastic and driven learner in the dynamic realm of Data
 
 Currently, I am actively seeking opportunities to make a tangible impact, leveraging my skills and passion in organizations that embrace innovation and harness the potential of data-driven insights. Let's join forces and create remarkable data-driven solutions!
 
-- 🔭 I’m currently working on:  NLP with RNNs and Awareness to generate scenes for TV shows
-- 🌱 I’m currently learning: Google Adv. Data Analytics 
+- 🔭 I’m currently working on:  Mobility Metric Analysis for Montreal Metro Stations
+- 🌱 I’m currently learning: M.Sc. Data Science (How fun!)
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/aforbesj/)
 
 <!--
