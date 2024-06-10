@@ -1,5 +1,5 @@
 ## Andrew J Forbes
-### Data Science / Analysis🤖 | Music Pro 🎺
+### Business Analytics and Technology Manager | Data Science / Analysis🤖 | Music Pro 🎺
 
 Hey! I'm Andrew, an enthusiastic and driven learner in the dynamic realm of Data Science: excited to delve into the boundless possibilities of data analysis. Interestingly, my background lies in music, which brings a unique perspective to my data science journey. I possess a creative mindset, a strong work ethic, and an analytical approach to problem-solving. 
 
