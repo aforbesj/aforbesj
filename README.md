@@ -9,7 +9,7 @@ Currently, I am actively seeking opportunities to make a tangible impact, levera
 - 🌱 I’m currently learning: M.Sc. Business Analytics and Technology Management (How fun!)
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/aforbesj/)
 
-[RANDOM LINK](https://www.canva.com/design/DAGYw6SeQJU/O8mAAZ4F1nr5EszXAX-juQ/view?utm_content=DAGYw6SeQJU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha8ebd567cf#7)
+[RANDOM LINK]([https://www.canva.com/design/DAGYw6SeQJU/O8mAAZ4F1nr5EszXAX-juQ/view?utm_content=DAGYw6SeQJU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha8ebd567cf#7](https://www.canva.com/design/DAGYw6SeQJU/-rADYKFhZVSjTEq4sFnQyg/edit))
 
 <!--
 **aforbesj/aforbesj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
